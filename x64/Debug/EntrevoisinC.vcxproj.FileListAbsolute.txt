@@ -1,0 +1,2 @@
+D:\Workspace Dev\VisualStudioProjects\EntrevoisinC\x64\Debug\EntrevoisinC.exe
+D:\Workspace Dev\VisualStudioProjects\EntrevoisinC\x64\Debug\EntrevoisinC.pdb
